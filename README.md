@@ -1,3 +1,3 @@
-# Climate-
+# Weather
 
-## URL:https://kingmari18.github.io/Climate-/
+## URL: https://kingmari18.github.io/Weather-/
